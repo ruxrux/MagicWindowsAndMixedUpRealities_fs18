@@ -1,5 +1,5 @@
-
 import codeanticode.syphon.*;
+
 import deadpixel.keystone.*;
 
 // syphon
@@ -12,7 +12,7 @@ CornerPinSurface surface;
 PGraphics offscreen;
 
 void settings() {
-  size(640, 360, P3D);
+  size(1280, 720, P3D);
   PJOGL.profile = 1;
 }
 
@@ -23,11 +23,11 @@ void setup() {
   
   // keystone object and surface
   ks = new Keystone(this);
-  surface = ks.createCornerPinSurface(640, 360, 20);
+  surface = ks.createCornerPinSurface(1280, 720, 20);
   
   // offscreen buffer to draw the surface we want projected
   // note that we're matching the resolution of the CornerPinSurface.
-  offscreen = createGraphics(640, 360, P3D);
+  offscreen = createGraphics(1280, 720, P3D);
 
 }
 
@@ -54,7 +54,7 @@ void draw() {
     // only draw if we already passed an image onto canvas
    if(canvas != null){
      // draw the Syphone image in the offscreen buffer
-    offscreen.image(canvas, 0, 0, 640, 360);  
+    offscreen.image(canvas, 0, 0, 1280, 720);  
    }
   offscreen.endDraw();
 
