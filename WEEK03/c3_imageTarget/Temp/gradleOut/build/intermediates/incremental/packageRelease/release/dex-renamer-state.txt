@@ -1,0 +1,4 @@
+#Wed Sep 19 23:35:27 EDT 2018
+base.0=/Users/rux/Documents/MWMUR/-\=FALL-18\=-/repo/MagicWindowsAndMixedUpRealities/WEEK03/c3_imageTarget/Temp/gradleOut/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

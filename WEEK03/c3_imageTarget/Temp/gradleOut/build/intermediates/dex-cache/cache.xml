@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rux/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/b6a1286230752ba26b1d5edaaa7636de/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d46bca2836cb936675a51f8d54e3402015d835cb">
+        <dex dex="/Users/rux/Documents/MWMUR/-=FALL-18=-/repo/MagicWindowsAndMixedUpRealities/WEEK03/c3_imageTarget/Temp/gradleOut/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rux/Documents/MWMUR/-=FALL-18=-/repo/MagicWindowsAndMixedUpRealities/WEEK03/c3_imageTarget/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="28.0.0"
+        sha1="623a8521f2432e73e8a7b192769a4ac073934cf5">
+        <dex dex="/Users/rux/Documents/MWMUR/-=FALL-18=-/repo/MagicWindowsAndMixedUpRealities/WEEK03/c3_imageTarget/Temp/gradleOut/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rux/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/b6a1286230752ba26b1d5edaaa7636de/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="28.0.0"
+        sha1="dc10c1b1e48196f12f0ebb5103ae4dc156ba9b2e">
+        <dex dex="/Users/rux/Documents/MWMUR/-=FALL-18=-/repo/MagicWindowsAndMixedUpRealities/WEEK03/c3_imageTarget/Temp/gradleOut/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rux/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/b6a1286230752ba26b1d5edaaa7636de/jars/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="28.0.0"
+        sha1="31de12dfd4ff409d57dd52142cd5ebe1c1eee803">
+        <dex dex="/Users/rux/Documents/MWMUR/-=FALL-18=-/repo/MagicWindowsAndMixedUpRealities/WEEK03/c3_imageTarget/Temp/gradleOut/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+
+</items>
