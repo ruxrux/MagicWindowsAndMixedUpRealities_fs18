@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3935473C-3921-5F7A-8554-30D3D8D088F7}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_scripts/beGreen.cs">
+    <Files>
+      <File FileName="Assets/collision.cs" Line="31" Column="5" />
+      <File FileName="Assets/_scripts/beGreen.cs" Line="26" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
