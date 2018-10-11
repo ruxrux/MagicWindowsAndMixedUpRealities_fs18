@@ -1,0 +1,2 @@
+/Users/rux/Documents/MWMUR/-=FALL-18=-/code/getDATA/obj/Debug/Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+/Users/rux/Documents/MWMUR/-=FALL-18=-/code/getDATA/obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
