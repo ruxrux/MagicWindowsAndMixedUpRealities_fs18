@@ -21,7 +21,6 @@ public class GETrequest : MonoBehaviour {
 		
 		UnityWebRequest request = UnityWebRequest.Get("http://api.openweathermap.org/data/2.5/weather?id=2172797&APPID=702367da6775090551215694c7a7fea9");
 		yield return request.SendWebRequest();
-		//yield return request.Send ();
 
 		if(request.isNetworkError || request.isHttpError) {
 			Debug.Log(request.error);
@@ -37,6 +36,11 @@ public class GETrequest : MonoBehaviour {
 
             if (weather == "Clear") _prefabNUM = 0;
             else _prefabNUM = 1;
+
+            //here we look for a game object by its name and
+            // use the SendMAessage method to run a public method/function in it
+            //more on Send Messsage
+            // https://docs.unity3d.com/ScriptReference/Component.SendMessage.html
 
             GameObject.Find("ImageTarget").SendMessage("SetPrefab",_prefabNUM);
 		}
