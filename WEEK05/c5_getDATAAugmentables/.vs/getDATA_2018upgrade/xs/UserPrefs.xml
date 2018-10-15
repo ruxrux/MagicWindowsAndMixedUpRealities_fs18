@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4FFD3720-132D-C947-D266-30857B133D8E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GETrequest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AugmentableInstantiator.cs" Line="56" Column="45" />
+      <File FileName="Assets/Scripts/GETrequest.cs" Line="41" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
