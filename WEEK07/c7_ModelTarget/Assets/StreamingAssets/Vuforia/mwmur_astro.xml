@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="mwmur_astro"/>
+</Tracking>
+
+<Assembly name="mwmur_astros_assembly">
+<Part name="mwmur_astro" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0281147 0.00487216 0.107693" rotation="AD: 0.9999999980694968 -0.003985173244268661 0.016066603236292023 207.857">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>
