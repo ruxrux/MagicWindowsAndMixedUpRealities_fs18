@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{88AECD66-061F-ACDF-6128-74DC5750488F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARHitTestExample.cs">
+    <Files>
+      <File FileName="Assets/hitTest.cs" Line="173" Column="2" />
+      <File FileName="Assets/UnityARKitPlugin/Examples/UnityARBallz/BallMaker.cs" Line="83" Column="1" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARHitTestExample.cs" Line="65" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
