@@ -1,0 +1,2 @@
+/Users/rux/Documents/MWMUR/-=FALL-18=-/code/c11_ARKit-What/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/rux/Documents/MWMUR/-=FALL-18=-/code/c11_ARKit-What/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
