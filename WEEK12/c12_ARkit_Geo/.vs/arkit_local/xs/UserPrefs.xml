@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B6919FBC-A8B8-B337-B70D-F4D4D6541E98}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LocationServices.cs">
+    <Files>
+      <File FileName="Assets/gps_text_debug.cs" Line="24" Column="3" />
+      <File FileName="Assets/getGPS.cs" Line="13" Column="25" />
+      <File FileName="Assets/LocationServices.cs" Line="19" Column="9" />
+      <File FileName="Assets/locationData.cs" Line="6" Column="9" />
+      <File FileName="Assets/_scripts/ARKHit.cs" Line="27" Column="56" />
+      <File FileName="Assets/getL.cs" Line="15" Column="9" />
+      <File FileName="Assets/getLocationData.cs" Line="12" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
